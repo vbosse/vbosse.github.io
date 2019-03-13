@@ -3,5 +3,3 @@ label: Test
 hide_body: false
 fields:
 - type: text
-pages:
-- Hello.md
